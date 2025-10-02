@@ -1,1 +1,1 @@
-[2025-10-02 13:25:30 +02:00] feat(crypto): tamper-evident ciphertext package builder with SHA-512 HMAC digest with strict TypeScript type-checking
+[2025-10-02 15:25:39 +02:00] refactor(hndl): streamline internal state transitions in hndl controller complying with institutional audit standards
