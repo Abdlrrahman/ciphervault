@@ -1,1 +1,1 @@
-[2025-09-28 15:20:15 +02:00] feat(frost): entropy source validation and NIST SP 800-90B statistical randomness testing complying with institutional audit standards
+[2025-10-02 11:25:31 +02:00] perf(dossier): accelerate polynomial evaluation using Horner's method in prime fields adhering to Level-4 sovereign stack standards
