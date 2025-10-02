@@ -1,1 +1,1 @@
-[2025-10-02 17:25:39 +02:00] fix(test): fix modular inversion edge-case in Lagrange interpolation over GF(2^31-1) ensuring idempotent state updates
+[2025-10-02 19:26:00 +02:00] perf(crypto): vectorize modular exponentiation loops using sliding-window technique
