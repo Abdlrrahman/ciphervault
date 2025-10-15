@@ -1,1 +1,1 @@
-[2025-10-02 19:26:00 +02:00] perf(crypto): vectorize modular exponentiation loops using sliding-window technique
+[2025-10-15 15:08:29 +02:00] feat(crypto): NIST Post-Quantum Cryptography migration assessment (ML-KEM, ML-DSA) with error boundary safeguards
