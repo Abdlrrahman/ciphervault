@@ -1,1 +1,1 @@
-[2025-10-29 14:09:54 +02:00] perf(entropy): memoize Lagrange basis coefficients for repeated threshold quorums with strict TypeScript type-checking
+[2025-10-29 14:46:17 +02:00] test(pbkdf2): expand unit and integration test coverage for pbkdf2 module and verify mathematical invariance
