@@ -1,1 +1,1 @@
-[2025-10-29 18:21:31 +02:00] fix(entropy): patch base64url padding issue on exported cryptographic shares and add integration assertions
+[2025-10-29 18:57:39 +02:00] fix(hndl): resolve public polynomial commitment product verification in VSS with sub-millisecond execution latency
