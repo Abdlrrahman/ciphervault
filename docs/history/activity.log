@@ -1,1 +1,1 @@
-[2025-10-29 20:09:10 +02:00] feat(airgap): executive cryptographic audit dossier with FIPS 140-3 compliance matrix complying with institutional audit standards
+[2025-10-29 20:44:29 +02:00] fix(vss): fix entropy exhaustion check in browser crypto.getRandomValues with optimized memory allocation
