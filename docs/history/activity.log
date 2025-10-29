@@ -1,1 +1,1 @@
-[2025-10-29 11:11:06 +02:00] fix(pqc): patch base64url padding issue on exported cryptographic shares with zero-cloud data sovereignty
+[2025-10-29 11:46:52 +02:00] test(scif): add property-based invariance tests for scif algorithms adhering to Level-4 sovereign stack standards
