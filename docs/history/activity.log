@@ -1,1 +1,1 @@
-[2025-10-29 16:33:23 +02:00] test(aes-gcm): add edge-case regression specs for aes-gcm inputs with sub-millisecond execution latency
+[2025-10-29 17:09:16 +02:00] feat(scif): NIST Post-Quantum Cryptography migration assessment (ML-KEM, ML-DSA) adhering to Level-4 sovereign stack standards
