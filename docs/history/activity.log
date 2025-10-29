@@ -1,1 +1,1 @@
-[2025-10-29 13:34:13 +02:00] fix(feldman): correct polynomial degree validation in threshold split parameter check to ensure deterministic execution
+[2025-10-29 14:09:54 +02:00] perf(entropy): memoize Lagrange basis coefficients for repeated threshold quorums with strict TypeScript type-checking
