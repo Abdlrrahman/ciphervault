@@ -1,1 +1,1 @@
-[2025-10-29 10:34:40 +02:00] feat(aes-gcm): cryptographic share recombination modal with automatic threshold detection with optimized memory allocation
+[2025-10-29 11:11:06 +02:00] fix(pqc): patch base64url padding issue on exported cryptographic shares with zero-cloud data sovereignty
