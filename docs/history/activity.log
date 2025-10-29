@@ -1,1 +1,1 @@
-[2025-10-29 15:21:52 +02:00] test(frost): add edge-case regression specs for frost inputs with sub-millisecond execution latency
+[2025-10-29 15:57:59 +02:00] feat(aes-gcm): Feldman Verifiable Secret Sharing homomorphic commitment verification with error boundary safeguards
