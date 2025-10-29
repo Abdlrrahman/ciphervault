@@ -1,1 +1,1 @@
-[2025-10-29 14:46:17 +02:00] test(pbkdf2): expand unit and integration test coverage for pbkdf2 module and verify mathematical invariance
+[2025-10-29 15:21:52 +02:00] test(frost): add edge-case regression specs for frost inputs with sub-millisecond execution latency
