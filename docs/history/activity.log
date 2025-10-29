@@ -1,1 +1,1 @@
-[2025-10-29 18:57:39 +02:00] fix(hndl): resolve public polynomial commitment product verification in VSS with sub-millisecond execution latency
+[2025-10-29 19:33:13 +02:00] docs(entropy): enrich inline documentation and algorithm proofs for entropy across all deployment profiles
