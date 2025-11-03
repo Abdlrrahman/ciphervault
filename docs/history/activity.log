@@ -1,1 +1,1 @@
-[2025-10-29 20:44:29 +02:00] fix(vss): fix entropy exhaustion check in browser crypto.getRandomValues with optimized memory allocation
+[2025-11-03 15:13:15 +02:00] refactor(shamir): modernize shamir component hierarchy with zero regression adhering to Level-4 sovereign stack standards
