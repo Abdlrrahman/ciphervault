@@ -1,1 +1,1 @@
-[2025-11-04 16:23:52 +02:00] test(frost): verify deterministic execution boundary for frost to ensure deterministic execution
+[2025-11-04 17:24:04 +02:00] fix(theme): patch QR code SVG generation for large FROST public key structures with optimized memory allocation
