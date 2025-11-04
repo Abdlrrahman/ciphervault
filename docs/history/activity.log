@@ -1,1 +1,1 @@
-[2025-11-04 13:22:57 +02:00] feat(vss): zero-knowledge proof of discrete logarithm equality for share verification and add integration assertions
+[2025-11-04 14:22:57 +02:00] feat(aes-gcm): air-gapped SCIF ceremony mode with zero-network QR export with optimized memory allocation
