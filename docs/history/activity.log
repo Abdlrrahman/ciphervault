@@ -1,1 +1,1 @@
-[2025-11-04 12:21:56 +02:00] fix(vss): patch QR code SVG generation for large FROST public key structures
+[2025-11-04 13:22:57 +02:00] feat(vss): zero-knowledge proof of discrete logarithm equality for share verification and add integration assertions
