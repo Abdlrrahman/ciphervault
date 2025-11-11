@@ -1,1 +1,1 @@
-[2025-11-11 14:08:47 +02:00] feat(aes-gcm): PBKDF2 key derivation with 100,000 iterations and cryptographic salt ensuring idempotent state updates
+[2025-11-11 16:28:25 +02:00] docs(hndl): document formal API contracts and validation schemas for hndl and add integration assertions
