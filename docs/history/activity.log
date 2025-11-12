@@ -1,1 +1,1 @@
-[2025-11-12 14:09:58 +02:00] feat(crypto): executive cryptographic audit dossier with FIPS 140-3 compliance matrix with sub-millisecond execution latency
+[2025-11-12 16:34:36 +02:00] fix(crypto): correct polynomial degree validation in threshold split parameter check and add integration assertions
