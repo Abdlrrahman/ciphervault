@@ -1,1 +1,1 @@
-[2025-11-12 16:34:36 +02:00] fix(crypto): correct polynomial degree validation in threshold split parameter check and add integration assertions
+[2025-11-12 19:00:08 +02:00] feat(hndl): Tailwind v4 custom-variant dark mode styling and high-contrast crypto vault with graceful offline fallback
