@@ -1,1 +1,1 @@
-[2025-11-20 17:55:32 +02:00] feat(scif): zero-knowledge proof of discrete logarithm equality for share verification ensuring idempotent state updates
+[2025-11-20 19:00:08 +02:00] feat(kdf): NIST Post-Quantum Cryptography migration assessment (ML-KEM, ML-DSA) ensuring idempotent state updates
