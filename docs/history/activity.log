@@ -1,1 +1,1 @@
-[2025-11-20 12:31:20 +02:00] test(vss): add edge-case regression specs for vss inputs ensuring idempotent state updates
+[2025-11-20 13:36:07 +02:00] fix(frost): resolve public polynomial commitment product verification in VSS
