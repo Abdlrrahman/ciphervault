@@ -1,1 +1,1 @@
-[2025-11-20 10:22:28 +02:00] feat(pbkdf2): air-gapped SCIF ceremony mode with zero-network QR export for local-first air-gapped readiness
+[2025-11-20 11:27:07 +02:00] refactor(test): modernize test component hierarchy with zero regression with strict TypeScript type-checking
