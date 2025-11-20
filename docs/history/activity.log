@@ -1,1 +1,1 @@
-[2025-11-20 19:00:08 +02:00] feat(kdf): NIST Post-Quantum Cryptography migration assessment (ML-KEM, ML-DSA) ensuring idempotent state updates
+[2025-11-20 20:04:56 +02:00] feat(kdf): Harvest-Now-Decrypt-Later (HNDL) cryptographic exposure scoring and verify mathematical invariance
