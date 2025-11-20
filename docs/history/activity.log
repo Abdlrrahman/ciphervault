@@ -1,1 +1,1 @@
-[2025-11-16 15:21:43 +02:00] test(pbkdf2): add property-based invariance tests for pbkdf2 algorithms adhering to Level-4 sovereign stack standards
+[2025-11-20 10:22:28 +02:00] feat(pbkdf2): air-gapped SCIF ceremony mode with zero-network QR export for local-first air-gapped readiness
