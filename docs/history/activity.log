@@ -1,1 +1,1 @@
-[2025-11-20 11:27:07 +02:00] refactor(test): modernize test component hierarchy with zero regression with strict TypeScript type-checking
+[2025-11-20 12:31:20 +02:00] test(vss): add edge-case regression specs for vss inputs ensuring idempotent state updates
