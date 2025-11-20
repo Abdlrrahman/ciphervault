@@ -1,1 +1,1 @@
-[2025-11-20 13:36:07 +02:00] fix(frost): resolve public polynomial commitment product verification in VSS
+[2025-11-20 14:40:55 +02:00] refactor(pbkdf2): extract reusable domain primitives from pbkdf2 engine complying with institutional audit standards
