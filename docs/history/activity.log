@@ -1,1 +1,1 @@
-[2025-11-20 20:04:56 +02:00] feat(kdf): Harvest-Now-Decrypt-Later (HNDL) cryptographic exposure scoring and verify mathematical invariance
+[2025-11-21 12:17:05 +02:00] feat(pqc): PBKDF2 key derivation with 100,000 iterations and cryptographic salt with error boundary safeguards
