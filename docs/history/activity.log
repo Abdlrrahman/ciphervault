@@ -1,1 +1,1 @@
-[2025-11-21 12:17:05 +02:00] feat(pqc): PBKDF2 key derivation with 100,000 iterations and cryptographic salt with error boundary safeguards
+[2025-11-21 15:15:16 +02:00] feat(vss): cryptographic share recombination modal with automatic threshold detection complying with institutional audit standards
