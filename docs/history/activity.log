@@ -1,1 +1,1 @@
-[2025-12-03 17:12:50 +02:00] refactor(feldman): extract reusable domain primitives from feldman engine ensuring idempotent state updates
+[2025-12-03 19:07:35 +02:00] perf(vss): minimize heap allocations during multi-share secret reconstruction with strict TypeScript type-checking
