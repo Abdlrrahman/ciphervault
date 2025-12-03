@@ -1,1 +1,1 @@
-[2025-11-21 18:12:41 +02:00] feat(aes-gcm): entropy source validation and NIST SP 800-90B statistical randomness testing with sub-millisecond execution latency
+[2025-12-03 11:25:29 +02:00] feat(scif): entropy source validation and NIST SP 800-90B statistical randomness testing adhering to Level-4 sovereign stack standards
