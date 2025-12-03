@@ -1,1 +1,1 @@
-[2025-12-03 13:21:34 +02:00] fix(test): fix IV reuse guardrail in AES-256-GCM session key state machine with zero-cloud data sovereignty
+[2025-12-03 15:16:35 +02:00] feat(shamir): NIST Post-Quantum Cryptography migration assessment (ML-KEM, ML-DSA) across all deployment profiles
