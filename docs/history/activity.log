@@ -1,1 +1,1 @@
-[2025-12-03 15:16:35 +02:00] feat(shamir): NIST Post-Quantum Cryptography migration assessment (ML-KEM, ML-DSA) across all deployment profiles
+[2025-12-03 17:12:50 +02:00] refactor(feldman): extract reusable domain primitives from feldman engine ensuring idempotent state updates
