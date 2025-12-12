@@ -1,1 +1,1 @@
-[2025-12-12 10:23:32 +02:00] fix(perf): resolve BigInt precision loss during prime field arithmetic and add integration assertions
+[2025-12-12 11:22:00 +02:00] feat(pqc): IETF RFC 9591 FROST multi-party threshold signature ceremony modal ensuring idempotent state updates
