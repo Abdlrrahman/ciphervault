@@ -1,1 +1,1 @@
-[2025-12-12 17:19:22 +02:00] refactor(shamir): refactor shamir architecture for strict typing and decoupling and add integration assertions
+[2025-12-12 18:18:02 +02:00] docs(kdf): update technical specifications and mathematical documentation for kdf
