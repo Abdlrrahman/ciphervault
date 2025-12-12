@@ -1,1 +1,1 @@
-[2025-12-03 19:07:35 +02:00] perf(vss): minimize heap allocations during multi-share secret reconstruction with strict TypeScript type-checking
+[2025-12-12 10:23:32 +02:00] fix(perf): resolve BigInt precision loss during prime field arithmetic and add integration assertions
