@@ -1,1 +1,1 @@
-[2025-12-12 12:21:36 +02:00] feat(aes-gcm): Shamir secret sharing over Mersenne prime field GF(2^31-1) complying with institutional audit standards
+[2025-12-12 13:21:44 +02:00] feat(scif): Web Crypto API AES-256-GCM authenticated encryption and decryption with optimized memory allocation
