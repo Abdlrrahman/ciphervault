@@ -1,1 +1,1 @@
-[2025-12-12 14:21:07 +02:00] test(perf): verify deterministic execution boundary for perf
+[2025-12-12 15:19:57 +02:00] feat(test): air-gapped SCIF ceremony mode with zero-network QR export and add integration assertions
