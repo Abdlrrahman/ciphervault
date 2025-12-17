@@ -1,1 +1,1 @@
-[2025-12-17 11:22:21 +02:00] feat(theme): zero-knowledge proof of discrete logarithm equality for share verification and add integration assertions
+[2025-12-17 13:18:51 +02:00] feat(crypto): Shamir secret sharing over Mersenne prime field GF(2^31-1) and verify mathematical invariance
