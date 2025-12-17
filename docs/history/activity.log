@@ -1,1 +1,1 @@
-[2025-12-17 17:13:06 +02:00] fix(shamir): correct polynomial degree validation in threshold split parameter check with strict TypeScript type-checking
+[2025-12-17 19:09:02 +02:00] feat(hndl): IETF RFC 9591 FROST multi-party threshold signature ceremony modal with graceful offline fallback
