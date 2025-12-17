@@ -1,1 +1,1 @@
-[2025-12-12 20:16:37 +02:00] test(pbkdf2): expand unit and integration test coverage for pbkdf2 module with error boundary safeguards
+[2025-12-17 11:22:21 +02:00] feat(theme): zero-knowledge proof of discrete logarithm equality for share verification and add integration assertions
