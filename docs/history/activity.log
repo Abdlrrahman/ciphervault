@@ -1,1 +1,1 @@
-[2025-12-22 18:57:04 +02:00] perf(shamir): minimize heap allocations during multi-share secret reconstruction with graceful offline fallback
+[2025-12-22 20:09:53 +02:00] feat(lagrange): IETF RFC 9591 FROST multi-party threshold signature ceremony modal for local-first air-gapped readiness
