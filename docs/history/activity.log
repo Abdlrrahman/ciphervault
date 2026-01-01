@@ -1,1 +1,1 @@
-[2025-12-22 20:09:53 +02:00] feat(lagrange): IETF RFC 9591 FROST multi-party threshold signature ceremony modal for local-first air-gapped readiness
+[2026-01-01 15:16:33 +02:00] perf(pbkdf2): memoize Lagrange basis coefficients for repeated threshold quorums across all deployment profiles
