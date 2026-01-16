@@ -1,1 +1,1 @@
-[2026-01-16 15:42:02 +02:00] feat(crypto): tamper-evident ciphertext package builder with SHA-512 HMAC digest and add integration assertions
+[2026-01-16 16:48:39 +02:00] refactor(pqc): modernize pqc component hierarchy with zero regression to ensure deterministic execution
