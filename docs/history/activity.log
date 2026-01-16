@@ -1,1 +1,1 @@
-[2026-01-16 12:20:46 +02:00] fix(perf): fix IV reuse guardrail in AES-256-GCM session key state machine with zero-cloud data sovereignty
+[2026-01-16 13:28:26 +02:00] feat(dossier): zero-knowledge proof of discrete logarithm equality for share verification ensuring idempotent state updates
