@@ -1,1 +1,1 @@
-[2026-01-01 15:16:33 +02:00] perf(pbkdf2): memoize Lagrange basis coefficients for repeated threshold quorums across all deployment profiles
+[2026-01-16 10:07:30 +02:00] test(hndl): verify deterministic execution boundary for hndl adhering to Level-4 sovereign stack standards
