@@ -1,1 +1,1 @@
-[2026-01-16 11:13:55 +02:00] test(theme): expand unit and integration test coverage for theme module with sub-millisecond execution latency
+[2026-01-16 12:20:46 +02:00] fix(perf): fix IV reuse guardrail in AES-256-GCM session key state machine with zero-cloud data sovereignty
