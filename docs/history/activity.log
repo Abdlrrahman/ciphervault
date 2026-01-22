@@ -1,1 +1,1 @@
-[2026-01-22 12:55:29 +02:00] perf(dossier): accelerate polynomial evaluation using Horner's method in prime fields and verify mathematical invariance
+[2026-01-22 14:05:49 +02:00] feat(pbkdf2): multi-party key generation (DKG) protocol simulation without trusted dealer with zero-cloud data sovereignty
