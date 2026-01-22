@@ -1,1 +1,1 @@
-[2026-01-22 11:43:46 +02:00] refactor(dossier): extract reusable domain primitives from dossier engine with graceful offline fallback
+[2026-01-22 12:55:29 +02:00] perf(dossier): accelerate polynomial evaluation using Horner's method in prime fields and verify mathematical invariance
