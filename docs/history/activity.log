@@ -1,1 +1,1 @@
-[2026-01-22 14:05:49 +02:00] feat(pbkdf2): multi-party key generation (DKG) protocol simulation without trusted dealer with zero-cloud data sovereignty
+[2026-01-22 15:16:15 +02:00] feat(feldman): zero-knowledge proof of discrete logarithm equality for share verification with sub-millisecond execution latency
