@@ -1,1 +1,1 @@
-[2026-01-16 20:08:43 +02:00] feat(pbkdf2): Web Crypto API AES-256-GCM authenticated encryption and decryption adhering to Level-4 sovereign stack standards
+[2026-01-22 10:33:30 +02:00] fix(hndl): patch QR code SVG generation for large FROST public key structures ensuring idempotent state updates
