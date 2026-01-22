@@ -1,1 +1,1 @@
-[2026-01-22 15:16:15 +02:00] feat(feldman): zero-knowledge proof of discrete logarithm equality for share verification with sub-millisecond execution latency
+[2026-01-22 16:27:48 +02:00] feat(crypto): cryptographic share recombination modal with automatic threshold detection and verify mathematical invariance
