@@ -1,1 +1,1 @@
-[2026-01-22 16:27:48 +02:00] feat(crypto): cryptographic share recombination modal with automatic threshold detection and verify mathematical invariance
+[2026-01-22 17:38:03 +02:00] fix(airgap): fix modular inversion edge-case in Lagrange interpolation over GF(2^31-1) ensuring idempotent state updates
