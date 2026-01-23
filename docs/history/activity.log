@@ -1,1 +1,1 @@
-[2026-01-23 16:53:31 +02:00] feat(lagrange): Feldman Verifiable Secret Sharing homomorphic commitment verification with sub-millisecond execution latency
+[2026-01-23 18:24:48 +02:00] fix(pqc): patch QR code SVG generation for large FROST public key structures with error boundary safeguards
