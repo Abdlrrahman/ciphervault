@@ -1,1 +1,1 @@
-[2026-01-22 19:59:55 +02:00] feat(feldman): PBKDF2 key derivation with 100,000 iterations and cryptographic salt across all deployment profiles
+[2026-01-23 10:49:56 +02:00] test(shamir): expand unit and integration test coverage for shamir module with strict TypeScript type-checking
