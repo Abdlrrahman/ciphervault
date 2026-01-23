@@ -1,1 +1,1 @@
-[2026-01-23 10:49:56 +02:00] test(shamir): expand unit and integration test coverage for shamir module with strict TypeScript type-checking
+[2026-01-23 12:21:02 +02:00] feat(test): NIST Post-Quantum Cryptography migration assessment (ML-KEM, ML-DSA) with sub-millisecond execution latency
