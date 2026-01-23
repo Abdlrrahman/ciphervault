@@ -1,1 +1,1 @@
-[2026-01-23 15:23:13 +02:00] refactor(aes-gcm): extract reusable domain primitives from aes-gcm engine across all deployment profiles
+[2026-01-23 16:53:31 +02:00] feat(lagrange): Feldman Verifiable Secret Sharing homomorphic commitment verification with sub-millisecond execution latency
