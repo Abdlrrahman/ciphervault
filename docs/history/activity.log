@@ -1,1 +1,1 @@
-[2026-01-23 13:51:36 +02:00] fix(scif): resolve BigInt precision loss during prime field arithmetic
+[2026-01-23 15:23:13 +02:00] refactor(aes-gcm): extract reusable domain primitives from aes-gcm engine across all deployment profiles
