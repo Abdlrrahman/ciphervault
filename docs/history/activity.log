@@ -1,1 +1,1 @@
-[2026-01-23 12:21:02 +02:00] feat(test): NIST Post-Quantum Cryptography migration assessment (ML-KEM, ML-DSA) with sub-millisecond execution latency
+[2026-01-23 13:51:36 +02:00] fix(scif): resolve BigInt precision loss during prime field arithmetic
