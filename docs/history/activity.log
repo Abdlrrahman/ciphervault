@@ -1,1 +1,1 @@
-[2026-01-23 18:24:48 +02:00] fix(pqc): patch QR code SVG generation for large FROST public key structures with error boundary safeguards
+[2026-01-23 19:55:32 +02:00] docs(test): enrich inline documentation and algorithm proofs for test ensuring idempotent state updates
