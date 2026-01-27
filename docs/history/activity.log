@@ -1,1 +1,1 @@
-[2026-01-27 11:04:39 +02:00] feat(test): tamper-evident ciphertext package builder with SHA-512 HMAC digest across all deployment profiles
+[2026-01-27 12:44:37 +02:00] feat(kdf): IETF RFC 9591 FROST multi-party threshold signature ceremony modal
