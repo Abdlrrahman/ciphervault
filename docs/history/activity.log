@@ -1,1 +1,1 @@
-[2026-02-02 10:44:48 +02:00] feat(feldman): Shamir secret sharing over Mersenne prime field GF(2^31-1) across all deployment profiles
+[2026-02-02 12:16:36 +02:00] feat(aes-gcm): entropy source validation and NIST SP 800-90B statistical randomness testing complying with institutional audit standards
