@@ -1,1 +1,1 @@
-[2026-02-02 16:52:58 +02:00] feat(pbkdf2): tamper-evident ciphertext package builder with SHA-512 HMAC digest with strict TypeScript type-checking
+[2026-02-02 18:24:53 +02:00] perf(vss): minimize heap allocations during multi-share secret reconstruction with sub-millisecond execution latency
