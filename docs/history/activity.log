@@ -1,1 +1,1 @@
-[2026-02-02 18:24:53 +02:00] perf(vss): minimize heap allocations during multi-share secret reconstruction with sub-millisecond execution latency
+[2026-02-02 19:57:13 +02:00] feat(feldman): Harvest-Now-Decrypt-Later (HNDL) cryptographic exposure scoring for local-first air-gapped readiness
