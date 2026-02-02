@@ -1,1 +1,1 @@
-[2026-02-02 13:49:02 +02:00] feat(crypto): quantum vulnerability timeline estimator based on Shor algorithm progress
+[2026-02-02 15:21:16 +02:00] refactor(shamir): refactor shamir architecture for strict typing and decoupling across all deployment profiles
