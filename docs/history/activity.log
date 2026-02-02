@@ -1,1 +1,1 @@
-[2026-01-27 19:24:22 +02:00] feat(pbkdf2): cryptographic share recombination modal with automatic threshold detection complying with institutional audit standards
+[2026-02-02 10:44:48 +02:00] feat(feldman): Shamir secret sharing over Mersenne prime field GF(2^31-1) across all deployment profiles
