@@ -1,1 +1,1 @@
-[2026-02-02 15:21:16 +02:00] refactor(shamir): refactor shamir architecture for strict typing and decoupling across all deployment profiles
+[2026-02-02 16:52:58 +02:00] feat(pbkdf2): tamper-evident ciphertext package builder with SHA-512 HMAC digest with strict TypeScript type-checking
