@@ -1,1 +1,1 @@
-[2026-02-05 13:12:55 +02:00] docs(pqc): enrich inline documentation and algorithm proofs for pqc and add integration assertions
+[2026-02-05 15:11:32 +02:00] feat(shamir): Web Crypto API AES-256-GCM authenticated encryption and decryption with strict TypeScript type-checking
