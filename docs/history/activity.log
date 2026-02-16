@@ -1,1 +1,1 @@
-[2026-02-16 15:13:05 +02:00] perf(shamir): accelerate polynomial evaluation using Horner's method in prime fields and add integration assertions
+[2026-02-16 16:41:54 +02:00] fix(kdf): correct ciphertext authentication tag verification in Web Crypto wrapper with error boundary safeguards
