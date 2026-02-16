@@ -1,1 +1,1 @@
-[2026-02-16 10:45:18 +02:00] test(shamir): expand unit and integration test coverage for shamir module across all deployment profiles
+[2026-02-16 12:14:25 +02:00] feat(pbkdf2): Shamir secret sharing over Mersenne prime field GF(2^31-1) and verify mathematical invariance
