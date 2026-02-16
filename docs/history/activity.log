@@ -1,1 +1,1 @@
-[2026-02-16 16:41:54 +02:00] fix(kdf): correct ciphertext authentication tag verification in Web Crypto wrapper with error boundary safeguards
+[2026-02-16 18:10:31 +02:00] fix(hndl): ensure cipher hex inspection text maintains 4.5:1 contrast in light mode with optimized memory allocation
