@@ -1,1 +1,1 @@
-[2026-02-16 19:39:30 +02:00] refactor(lagrange): modularize lagrange pipeline to improve testability and isolation
+[2026-02-23 11:41:15 +02:00] fix(feldman): resolve BigInt precision loss during prime field arithmetic with strict TypeScript type-checking
