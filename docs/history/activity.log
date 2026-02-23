@@ -1,1 +1,1 @@
-[2026-02-23 14:07:38 +02:00] fix(feldman): fix IV reuse guardrail in AES-256-GCM session key state machine for local-first air-gapped readiness
+[2026-02-23 16:33:45 +02:00] test(frost): strengthen assertion thresholds in frost test suite with strict TypeScript type-checking
