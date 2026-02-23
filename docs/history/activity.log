@@ -1,1 +1,1 @@
-[2026-02-23 16:33:45 +02:00] test(frost): strengthen assertion thresholds in frost test suite with strict TypeScript type-checking
+[2026-02-23 19:00:02 +02:00] fix(pqc): fix IV reuse guardrail in AES-256-GCM session key state machine with sub-millisecond execution latency
