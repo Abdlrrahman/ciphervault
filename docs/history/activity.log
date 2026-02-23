@@ -1,1 +1,1 @@
-[2026-02-23 11:41:15 +02:00] fix(feldman): resolve BigInt precision loss during prime field arithmetic with strict TypeScript type-checking
+[2026-02-23 14:07:38 +02:00] fix(feldman): fix IV reuse guardrail in AES-256-GCM session key state machine for local-first air-gapped readiness
