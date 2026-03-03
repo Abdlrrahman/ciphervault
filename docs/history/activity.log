@@ -1,1 +1,1 @@
-[2026-03-03 15:17:55 +02:00] docs(scif): add deployment runbook and configuration guide for scif with graceful offline fallback
+[2026-03-03 18:14:07 +02:00] refactor(pbkdf2): streamline internal state transitions in pbkdf2 controller across all deployment profiles
