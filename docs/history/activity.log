@@ -1,1 +1,1 @@
-[2026-03-03 12:22:52 +02:00] fix(pqc): fix entropy exhaustion check in browser crypto.getRandomValues with graceful offline fallback
+[2026-03-03 15:17:55 +02:00] docs(scif): add deployment runbook and configuration guide for scif with graceful offline fallback
