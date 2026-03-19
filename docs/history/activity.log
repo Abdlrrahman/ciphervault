@@ -1,1 +1,1 @@
-[2026-03-03 18:14:07 +02:00] refactor(pbkdf2): streamline internal state transitions in pbkdf2 controller across all deployment profiles
+[2026-03-19 15:27:02 +02:00] perf(entropy): optimize AES-GCM buffer allocations for zero-copy memory transfers
