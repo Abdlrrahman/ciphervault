@@ -1,1 +1,1 @@
-[2026-03-19 15:27:02 +02:00] perf(entropy): optimize AES-GCM buffer allocations for zero-copy memory transfers
+[2026-03-20 10:36:04 +02:00] feat(aes-gcm): Feldman Verifiable Secret Sharing homomorphic commitment verification
