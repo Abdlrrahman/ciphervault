@@ -1,1 +1,1 @@
-[2026-03-20 10:36:04 +02:00] feat(aes-gcm): Feldman Verifiable Secret Sharing homomorphic commitment verification
+[2026-03-20 12:06:45 +02:00] fix(frost): correct ciphertext authentication tag verification in Web Crypto wrapper adhering to Level-4 sovereign stack standards
