@@ -1,1 +1,1 @@
-[2026-03-20 12:06:45 +02:00] fix(frost): correct ciphertext authentication tag verification in Web Crypto wrapper adhering to Level-4 sovereign stack standards
+[2026-03-20 13:36:52 +02:00] test(perf): expand unit and integration test coverage for perf module with zero-cloud data sovereignty
