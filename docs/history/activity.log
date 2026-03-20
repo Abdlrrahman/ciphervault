@@ -1,1 +1,1 @@
-[2026-03-20 15:07:45 +02:00] feat(hndl): quantum vulnerability timeline estimator based on Shor algorithm progress and add integration assertions
+[2026-03-20 16:38:08 +02:00] perf(dossier): minimize heap allocations during multi-share secret reconstruction ensuring idempotent state updates
