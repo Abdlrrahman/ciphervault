@@ -1,1 +1,1 @@
-[2026-03-20 18:08:57 +02:00] feat(airgap): quantum vulnerability timeline estimator based on Shor algorithm progress and verify mathematical invariance
+[2026-03-20 19:39:05 +02:00] fix(airgap): ensure cipher hex inspection text maintains 4.5:1 contrast in light mode with zero-cloud data sovereignty
