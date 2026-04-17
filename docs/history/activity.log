@@ -1,1 +1,1 @@
-[2026-04-17 12:39:51 +02:00] fix(vss): patch QR code SVG generation for large FROST public key structures and add integration assertions
+[2026-04-17 13:24:11 +02:00] feat(scif): Shamir secret sharing over Mersenne prime field GF(2^31-1) for local-first air-gapped readiness
