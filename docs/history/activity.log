@@ -1,1 +1,1 @@
-[2026-04-17 19:15:39 +02:00] feat(scif): entropy source validation and NIST SP 800-90B statistical randomness testing with error boundary safeguards
+[2026-04-17 19:59:48 +02:00] fix(aes-gcm): correct ciphertext authentication tag verification in Web Crypto wrapper with graceful offline fallback
