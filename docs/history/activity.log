@@ -1,1 +1,1 @@
-[2026-04-17 17:03:43 +02:00] feat(feldman): Shamir secret sharing over Mersenne prime field GF(2^31-1) with error boundary safeguards
+[2026-04-17 17:47:29 +02:00] perf(kdf): optimize AES-GCM buffer allocations for zero-copy memory transfers
