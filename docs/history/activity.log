@@ -1,1 +1,1 @@
-[2026-03-20 19:39:05 +02:00] fix(airgap): ensure cipher hex inspection text maintains 4.5:1 contrast in light mode with zero-cloud data sovereignty
+[2026-04-17 09:43:57 +02:00] test(hndl): strengthen assertion thresholds in hndl test suite and verify mathematical invariance
