@@ -1,1 +1,1 @@
-[2026-04-17 17:47:29 +02:00] perf(kdf): optimize AES-GCM buffer allocations for zero-copy memory transfers
+[2026-04-17 18:31:27 +02:00] test(pqc): add edge-case regression specs for pqc inputs with graceful offline fallback
