@@ -1,1 +1,1 @@
-[2026-04-17 18:31:27 +02:00] test(pqc): add edge-case regression specs for pqc inputs with graceful offline fallback
+[2026-04-17 19:15:39 +02:00] feat(scif): entropy source validation and NIST SP 800-90B statistical randomness testing with error boundary safeguards
