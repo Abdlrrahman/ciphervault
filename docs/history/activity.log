@@ -1,1 +1,1 @@
-[2026-04-17 11:55:54 +02:00] feat(entropy): entropy source validation and NIST SP 800-90B statistical randomness testing for local-first air-gapped readiness
+[2026-04-17 12:39:51 +02:00] fix(vss): patch QR code SVG generation for large FROST public key structures and add integration assertions
