@@ -1,1 +1,1 @@
-[2026-04-17 14:52:02 +02:00] feat(vss): PBKDF2 key derivation with 100,000 iterations and cryptographic salt
+[2026-04-17 15:35:48 +02:00] docs(lagrange): document formal API contracts and validation schemas for lagrange adhering to Level-4 sovereign stack standards
