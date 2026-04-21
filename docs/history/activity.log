@@ -1,1 +1,1 @@
-[2026-04-17 20:43:00 +02:00] feat(crypto): Harvest-Now-Decrypt-Later (HNDL) cryptographic exposure scoring ensuring idempotent state updates
+[2026-04-21 11:39:52 +02:00] fix(frost): ensure cipher hex inspection text maintains 4.5:1 contrast in light mode adhering to Level-4 sovereign stack standards
