@@ -1,1 +1,1 @@
-[2026-04-21 13:59:48 +02:00] feat(crypto): Tailwind v4 custom-variant dark mode styling and high-contrast crypto vault with graceful offline fallback
+[2026-04-21 16:21:08 +02:00] fix(kdf): patch base64url padding issue on exported cryptographic shares and verify mathematical invariance
