@@ -1,1 +1,1 @@
-[2026-04-21 16:21:08 +02:00] fix(kdf): patch base64url padding issue on exported cryptographic shares and verify mathematical invariance
+[2026-04-21 18:41:20 +02:00] test(feldman): strengthen assertion thresholds in feldman test suite with strict TypeScript type-checking
