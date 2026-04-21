@@ -1,1 +1,1 @@
-[2026-04-21 11:39:52 +02:00] fix(frost): ensure cipher hex inspection text maintains 4.5:1 contrast in light mode adhering to Level-4 sovereign stack standards
+[2026-04-21 13:59:48 +02:00] feat(crypto): Tailwind v4 custom-variant dark mode styling and high-contrast crypto vault with graceful offline fallback
