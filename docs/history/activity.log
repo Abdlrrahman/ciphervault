@@ -1,1 +1,1 @@
-[2026-04-22 13:26:50 +02:00] feat(scif): Web Crypto API AES-256-GCM authenticated encryption and decryption to ensure deterministic execution
+[2026-04-22 14:01:43 +02:00] feat(entropy): quantum vulnerability timeline estimator based on Shor algorithm progress for local-first air-gapped readiness
