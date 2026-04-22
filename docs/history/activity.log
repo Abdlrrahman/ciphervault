@@ -1,1 +1,1 @@
-[2026-04-22 11:44:46 +02:00] fix(dossier): correct ciphertext authentication tag verification in Web Crypto wrapper with optimized memory allocation
+[2026-04-22 12:18:09 +02:00] test(entropy): add edge-case regression specs for entropy inputs and add integration assertions
