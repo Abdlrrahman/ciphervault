@@ -1,1 +1,1 @@
-[2026-04-22 15:44:18 +02:00] test(shamir): strengthen assertion thresholds in shamir test suite to ensure deterministic execution
+[2026-04-22 16:18:25 +02:00] test(vss): add property-based invariance tests for vss algorithms with sub-millisecond execution latency
