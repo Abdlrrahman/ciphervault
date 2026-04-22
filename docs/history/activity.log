@@ -1,1 +1,1 @@
-[2026-04-22 12:18:09 +02:00] test(entropy): add edge-case regression specs for entropy inputs and add integration assertions
+[2026-04-22 12:53:05 +02:00] feat(lagrange): entropy source validation and NIST SP 800-90B statistical randomness testing with sub-millisecond execution latency
