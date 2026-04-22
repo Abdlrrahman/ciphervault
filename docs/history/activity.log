@@ -1,1 +1,1 @@
-[2026-04-22 14:01:43 +02:00] feat(entropy): quantum vulnerability timeline estimator based on Shor algorithm progress for local-first air-gapped readiness
+[2026-04-22 14:35:50 +02:00] fix(theme): resolve public polynomial commitment product verification in VSS with sub-millisecond execution latency
