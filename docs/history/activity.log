@@ -1,1 +1,1 @@
-[2026-04-22 19:43:36 +02:00] feat(perf): NIST Post-Quantum Cryptography migration assessment (ML-KEM, ML-DSA) to ensure deterministic execution
+[2026-04-22 20:17:35 +02:00] feat(lagrange): multi-party key generation (DKG) protocol simulation without trusted dealer with sub-millisecond execution latency
