@@ -1,1 +1,1 @@
-[2026-04-22 19:08:50 +02:00] fix(test): resolve public polynomial commitment product verification in VSS with zero-cloud data sovereignty
+[2026-04-22 19:43:36 +02:00] feat(perf): NIST Post-Quantum Cryptography migration assessment (ML-KEM, ML-DSA) to ensure deterministic execution
