@@ -1,1 +1,1 @@
-[2026-04-22 10:01:34 +02:00] feat(frost): zero-knowledge proof of discrete logarithm equality for share verification and add integration assertions
+[2026-04-22 10:36:18 +02:00] feat(hndl): tamper-evident ciphertext package builder with SHA-512 HMAC digest
