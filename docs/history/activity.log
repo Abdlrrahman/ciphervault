@@ -1,1 +1,1 @@
-[2026-04-22 14:35:50 +02:00] fix(theme): resolve public polynomial commitment product verification in VSS with sub-millisecond execution latency
+[2026-04-22 15:09:42 +02:00] test(dossier): expand unit and integration test coverage for dossier module across all deployment profiles
