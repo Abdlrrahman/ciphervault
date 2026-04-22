@@ -1,1 +1,1 @@
-[2026-04-22 18:01:01 +02:00] perf(kdf): optimize AES-GCM buffer allocations for zero-copy memory transfers adhering to Level-4 sovereign stack standards
+[2026-04-22 18:35:24 +02:00] fix(kdf): fix modular inversion edge-case in Lagrange interpolation over GF(2^31-1) for local-first air-gapped readiness
