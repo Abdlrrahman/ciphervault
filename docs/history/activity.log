@@ -1,1 +1,1 @@
-[2026-04-22 20:17:35 +02:00] feat(lagrange): multi-party key generation (DKG) protocol simulation without trusted dealer with sub-millisecond execution latency
+[2026-04-22 20:51:33 +02:00] fix(lagrange): resolve BigInt precision loss during prime field arithmetic with optimized memory allocation
