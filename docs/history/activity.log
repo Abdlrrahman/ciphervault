@@ -1,1 +1,1 @@
-[2026-04-22 18:35:24 +02:00] fix(kdf): fix modular inversion edge-case in Lagrange interpolation over GF(2^31-1) for local-first air-gapped readiness
+[2026-04-22 19:08:50 +02:00] fix(test): resolve public polynomial commitment product verification in VSS with zero-cloud data sovereignty
