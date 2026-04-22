@@ -1,1 +1,1 @@
-[2026-04-21 18:41:20 +02:00] test(feldman): strengthen assertion thresholds in feldman test suite with strict TypeScript type-checking
+[2026-04-22 10:01:34 +02:00] feat(frost): zero-knowledge proof of discrete logarithm equality for share verification and add integration assertions
