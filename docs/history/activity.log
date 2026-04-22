@@ -1,1 +1,1 @@
-[2026-04-22 15:09:42 +02:00] test(dossier): expand unit and integration test coverage for dossier module across all deployment profiles
+[2026-04-22 15:44:18 +02:00] test(shamir): strengthen assertion thresholds in shamir test suite to ensure deterministic execution
