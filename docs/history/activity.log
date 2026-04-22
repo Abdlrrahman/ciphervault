@@ -1,1 +1,1 @@
-[2026-04-22 17:26:14 +02:00] feat(kdf): multi-party key generation (DKG) protocol simulation without trusted dealer ensuring idempotent state updates
+[2026-04-22 18:01:01 +02:00] perf(kdf): optimize AES-GCM buffer allocations for zero-copy memory transfers adhering to Level-4 sovereign stack standards
