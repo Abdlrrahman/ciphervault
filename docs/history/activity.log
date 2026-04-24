@@ -1,1 +1,1 @@
-[2026-04-24 18:53:01 +02:00] feat(crypto): PBKDF2 key derivation with 100,000 iterations and cryptographic salt adhering to Level-4 sovereign stack standards
+[2026-04-24 19:30:05 +02:00] fix(pbkdf2): patch base64url padding issue on exported cryptographic shares with graceful offline fallback
