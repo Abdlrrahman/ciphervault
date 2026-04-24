@@ -1,1 +1,1 @@
-[2026-04-24 12:44:21 +02:00] feat(scif): tamper-evident ciphertext package builder with SHA-512 HMAC digest for local-first air-gapped readiness
+[2026-04-24 13:21:25 +02:00] feat(frost): multi-party key generation (DKG) protocol simulation without trusted dealer ensuring idempotent state updates
