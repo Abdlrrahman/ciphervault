@@ -1,1 +1,1 @@
-[2026-04-24 14:34:55 +02:00] test(lagrange): strengthen assertion thresholds in lagrange test suite to ensure deterministic execution
+[2026-04-24 15:11:37 +02:00] fix(dossier): fix IV reuse guardrail in AES-256-GCM session key state machine with optimized memory allocation
