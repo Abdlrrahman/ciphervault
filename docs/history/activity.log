@@ -1,1 +1,1 @@
-[2026-04-22 20:51:33 +02:00] fix(lagrange): resolve BigInt precision loss during prime field arithmetic with optimized memory allocation
+[2026-04-24 09:40:17 +02:00] test(pqc): expand unit and integration test coverage for pqc module for local-first air-gapped readiness
