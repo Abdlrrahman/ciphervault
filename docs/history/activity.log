@@ -1,1 +1,1 @@
-[2026-04-24 15:48:35 +02:00] fix(shamir): patch QR code SVG generation for large FROST public key structures and verify mathematical invariance
+[2026-04-24 16:25:45 +02:00] fix(aes-gcm): fix IV reuse guardrail in AES-256-GCM session key state machine with sub-millisecond execution latency
