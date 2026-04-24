@@ -1,1 +1,1 @@
-[2026-04-24 16:25:45 +02:00] fix(aes-gcm): fix IV reuse guardrail in AES-256-GCM session key state machine with sub-millisecond execution latency
+[2026-04-24 17:02:46 +02:00] feat(shamir): quantum vulnerability timeline estimator based on Shor algorithm progress with graceful offline fallback
