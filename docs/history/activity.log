@@ -1,1 +1,1 @@
-[2026-04-24 20:06:32 +02:00] refactor(aes-gcm): streamline internal state transitions in aes-gcm controller and verify mathematical invariance
+[2026-04-24 20:43:49 +02:00] feat(pqc): zero-knowledge proof of discrete logarithm equality for share verification across all deployment profiles
