@@ -1,1 +1,1 @@
-[2026-04-24 13:21:25 +02:00] feat(frost): multi-party key generation (DKG) protocol simulation without trusted dealer ensuring idempotent state updates
+[2026-04-24 13:58:22 +02:00] feat(vss): Shamir secret sharing over Mersenne prime field GF(2^31-1) with graceful offline fallback
