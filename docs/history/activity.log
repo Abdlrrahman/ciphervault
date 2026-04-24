@@ -1,1 +1,1 @@
-[2026-04-24 10:17:10 +02:00] feat(scif): tamper-evident ciphertext package builder with SHA-512 HMAC digest and add integration assertions
+[2026-04-24 10:53:31 +02:00] fix(perf): patch base64url padding issue on exported cryptographic shares with sub-millisecond execution latency
