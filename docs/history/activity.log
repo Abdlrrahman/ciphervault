@@ -1,1 +1,1 @@
-[2026-04-24 17:02:46 +02:00] feat(shamir): quantum vulnerability timeline estimator based on Shor algorithm progress with graceful offline fallback
+[2026-04-24 17:39:35 +02:00] docs(shamir): add deployment runbook and configuration guide for shamir with graceful offline fallback
