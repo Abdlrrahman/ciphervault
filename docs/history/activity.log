@@ -1,1 +1,1 @@
-[2026-04-24 19:30:05 +02:00] fix(pbkdf2): patch base64url padding issue on exported cryptographic shares with graceful offline fallback
+[2026-04-24 20:06:32 +02:00] refactor(aes-gcm): streamline internal state transitions in aes-gcm controller and verify mathematical invariance
