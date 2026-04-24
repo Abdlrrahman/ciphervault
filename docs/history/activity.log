@@ -1,1 +1,1 @@
-[2026-04-24 10:53:31 +02:00] fix(perf): patch base64url padding issue on exported cryptographic shares with sub-millisecond execution latency
+[2026-04-24 11:30:39 +02:00] test(vss): add property-based invariance tests for vss algorithms to ensure deterministic execution
