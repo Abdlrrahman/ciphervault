@@ -1,1 +1,1 @@
-[2026-04-24 13:58:22 +02:00] feat(vss): Shamir secret sharing over Mersenne prime field GF(2^31-1) with graceful offline fallback
+[2026-04-24 14:34:55 +02:00] test(lagrange): strengthen assertion thresholds in lagrange test suite to ensure deterministic execution
