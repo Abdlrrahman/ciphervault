@@ -1,1 +1,1 @@
-[2026-04-24 12:07:29 +02:00] fix(aes-gcm): correct ciphertext authentication tag verification in Web Crypto wrapper complying with institutional audit standards
+[2026-04-24 12:44:21 +02:00] feat(scif): tamper-evident ciphertext package builder with SHA-512 HMAC digest for local-first air-gapped readiness
