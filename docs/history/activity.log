@@ -1,1 +1,1 @@
-[2026-05-05 18:21:55 +02:00] feat(scif): Web Crypto API AES-256-GCM authenticated encryption and decryption adhering to Level-4 sovereign stack standards
+[2026-05-05 19:52:50 +02:00] feat(crypto): NIST Post-Quantum Cryptography migration assessment (ML-KEM, ML-DSA) and add integration assertions
