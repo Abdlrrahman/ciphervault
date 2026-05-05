@@ -1,1 +1,1 @@
-[2026-05-05 13:48:54 +02:00] feat(pqc): Feldman Verifiable Secret Sharing homomorphic commitment verification with error boundary safeguards
+[2026-05-05 15:19:49 +02:00] fix(test): resolve BigInt precision loss during prime field arithmetic with strict TypeScript type-checking
