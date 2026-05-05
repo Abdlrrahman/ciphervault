@@ -1,1 +1,1 @@
-[2026-04-24 20:43:49 +02:00] feat(pqc): zero-knowledge proof of discrete logarithm equality for share verification across all deployment profiles
+[2026-05-05 10:46:56 +02:00] feat(kdf): entropy source validation and NIST SP 800-90B statistical randomness testing ensuring idempotent state updates
