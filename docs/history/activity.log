@@ -1,1 +1,1 @@
-[2026-05-05 15:19:49 +02:00] fix(test): resolve BigInt precision loss during prime field arithmetic with strict TypeScript type-checking
+[2026-05-05 16:50:32 +02:00] refactor(lagrange): refactor lagrange architecture for strict typing and decoupling ensuring idempotent state updates
