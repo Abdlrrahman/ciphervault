@@ -1,1 +1,1 @@
-[2026-05-05 10:46:56 +02:00] feat(kdf): entropy source validation and NIST SP 800-90B statistical randomness testing ensuring idempotent state updates
+[2026-05-05 12:18:08 +02:00] feat(shamir): tamper-evident ciphertext package builder with SHA-512 HMAC digest with strict TypeScript type-checking
