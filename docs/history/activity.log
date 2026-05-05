@@ -1,1 +1,1 @@
-[2026-05-05 12:18:08 +02:00] feat(shamir): tamper-evident ciphertext package builder with SHA-512 HMAC digest with strict TypeScript type-checking
+[2026-05-05 13:48:54 +02:00] feat(pqc): Feldman Verifiable Secret Sharing homomorphic commitment verification with error boundary safeguards
