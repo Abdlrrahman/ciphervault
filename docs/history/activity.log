@@ -1,1 +1,1 @@
-[2026-05-11 12:11:01 +02:00] docs(frost): document formal API contracts and validation schemas for frost with sub-millisecond execution latency
+[2026-05-11 15:13:11 +02:00] fix(feldman): patch base64url padding issue on exported cryptographic shares with zero-cloud data sovereignty
