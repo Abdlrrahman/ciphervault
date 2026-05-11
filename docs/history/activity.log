@@ -1,1 +1,1 @@
-[2026-05-11 15:13:11 +02:00] fix(feldman): patch base64url padding issue on exported cryptographic shares with zero-cloud data sovereignty
+[2026-05-11 18:16:33 +02:00] test(vss): add property-based invariance tests for vss algorithms across all deployment profiles
