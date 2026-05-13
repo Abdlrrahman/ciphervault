@@ -1,1 +1,1 @@
-[2026-05-11 18:16:33 +02:00] test(vss): add property-based invariance tests for vss algorithms across all deployment profiles
+[2026-05-13 15:05:37 +02:00] fix(test): resolve public polynomial commitment product verification in VSS with graceful offline fallback
