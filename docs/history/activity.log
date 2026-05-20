@@ -1,1 +1,1 @@
-[2026-05-20 13:11:14 +02:00] docs(aes-gcm): add deployment runbook and configuration guide for aes-gcm for local-first air-gapped readiness
+[2026-05-20 14:30:54 +02:00] feat(airgap): cryptographic share recombination modal with automatic threshold detection adhering to Level-4 sovereign stack standards
