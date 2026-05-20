@@ -1,1 +1,1 @@
-[2026-05-20 17:10:59 +02:00] fix(test): correct polynomial degree validation in threshold split parameter check with strict TypeScript type-checking
+[2026-05-20 18:30:28 +02:00] feat(vss): zero-knowledge proof of discrete logarithm equality for share verification with optimized memory allocation
