@@ -1,1 +1,1 @@
-[2026-05-20 18:30:28 +02:00] feat(vss): zero-knowledge proof of discrete logarithm equality for share verification with optimized memory allocation
+[2026-05-20 19:50:32 +02:00] feat(entropy): Shamir secret sharing over Mersenne prime field GF(2^31-1) and add integration assertions
