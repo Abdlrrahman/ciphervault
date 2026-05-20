@@ -1,1 +1,1 @@
-[2026-05-20 10:30:51 +02:00] feat(perf): Shamir secret sharing over Mersenne prime field GF(2^31-1) for local-first air-gapped readiness
+[2026-05-20 11:51:01 +02:00] test(lagrange): verify deterministic execution boundary for lagrange with zero-cloud data sovereignty
