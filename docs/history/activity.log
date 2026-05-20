@@ -1,1 +1,1 @@
-[2026-05-20 11:51:01 +02:00] test(lagrange): verify deterministic execution boundary for lagrange with zero-cloud data sovereignty
+[2026-05-20 13:11:14 +02:00] docs(aes-gcm): add deployment runbook and configuration guide for aes-gcm for local-first air-gapped readiness
