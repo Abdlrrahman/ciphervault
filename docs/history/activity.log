@@ -1,1 +1,1 @@
-[2026-06-02 12:13:20 +02:00] feat(entropy): Shamir secret sharing over Mersenne prime field GF(2^31-1) ensuring idempotent state updates
+[2026-06-02 15:16:52 +02:00] fix(crypto): resolve BigInt precision loss during prime field arithmetic and verify mathematical invariance
