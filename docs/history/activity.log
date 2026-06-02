@@ -1,1 +1,1 @@
-[2026-06-02 15:16:52 +02:00] fix(crypto): resolve BigInt precision loss during prime field arithmetic and verify mathematical invariance
+[2026-06-02 18:20:28 +02:00] feat(frost): zero-knowledge proof of discrete logarithm equality for share verification across all deployment profiles
