@@ -1,1 +1,1 @@
-[2026-07-01 11:50:42 +02:00] perf(airgap): accelerate polynomial evaluation using Horner's method in prime fields with zero-cloud data sovereignty
+[2026-07-01 13:12:38 +02:00] fix(kdf): correct polynomial degree validation in threshold split parameter check and add integration assertions
