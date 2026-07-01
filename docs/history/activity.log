@@ -1,1 +1,1 @@
-[2026-07-01 14:33:57 +02:00] test(scif): add property-based invariance tests for scif algorithms for local-first air-gapped readiness
+[2026-07-01 15:54:56 +02:00] docs(pbkdf2): update technical specifications and mathematical documentation for pbkdf2 to ensure deterministic execution
