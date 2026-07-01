@@ -1,1 +1,1 @@
-[2026-06-02 18:20:28 +02:00] feat(frost): zero-knowledge proof of discrete logarithm equality for share verification across all deployment profiles
+[2026-07-01 10:29:19 +02:00] refactor(test): modularize test pipeline to improve testability and isolation
