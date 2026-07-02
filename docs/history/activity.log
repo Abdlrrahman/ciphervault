@@ -1,1 +1,1 @@
-[2026-07-02 15:23:08 +02:00] feat(airgap): Web Crypto API AES-256-GCM authenticated encryption and decryption complying with institutional audit standards
+[2026-07-02 18:24:02 +02:00] test(frost): add property-based invariance tests for frost algorithms with sub-millisecond execution latency
