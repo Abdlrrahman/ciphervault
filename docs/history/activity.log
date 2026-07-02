@@ -1,1 +1,1 @@
-[2026-07-02 12:22:15 +02:00] fix(crypto): resolve public polynomial commitment product verification in VSS and verify mathematical invariance
+[2026-07-02 15:23:08 +02:00] feat(airgap): Web Crypto API AES-256-GCM authenticated encryption and decryption complying with institutional audit standards
