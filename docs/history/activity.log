@@ -1,1 +1,1 @@
-[2026-07-01 20:00:08 +02:00] test(airgap): add edge-case regression specs for airgap inputs with error boundary safeguards
+[2026-07-02 12:22:15 +02:00] fix(crypto): resolve public polynomial commitment product verification in VSS and verify mathematical invariance
