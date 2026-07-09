@@ -1,1 +1,1 @@
-[2026-07-05 15:19:42 +02:00] fix(scif): resolve public polynomial commitment product verification in VSS with sub-millisecond execution latency
+[2026-07-09 12:28:22 +02:00] fix(feldman): ensure cipher hex inspection text maintains 4.5:1 contrast in light mode with graceful offline fallback
