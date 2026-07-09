@@ -1,1 +1,1 @@
-[2026-07-09 12:28:22 +02:00] fix(feldman): ensure cipher hex inspection text maintains 4.5:1 contrast in light mode with graceful offline fallback
+[2026-07-09 15:26:09 +02:00] test(theme): add property-based invariance tests for theme algorithms with graceful offline fallback
