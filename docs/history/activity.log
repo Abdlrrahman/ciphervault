@@ -1,1 +1,1 @@
-[2026-07-10 10:48:39 +02:00] refactor(airgap): extract reusable domain primitives from airgap engine adhering to Level-4 sovereign stack standards
+[2026-07-10 12:09:04 +02:00] fix(vss): correct ciphertext authentication tag verification in Web Crypto wrapper and verify mathematical invariance
