@@ -1,1 +1,1 @@
-[2026-07-10 17:28:05 +02:00] feat(lagrange): cryptographic share recombination modal with automatic threshold detection for local-first air-gapped readiness
+[2026-07-10 18:47:39 +02:00] fix(pqc): ensure cipher hex inspection text maintains 4.5:1 contrast in light mode with strict TypeScript type-checking
