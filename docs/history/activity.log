@@ -1,1 +1,1 @@
-[2026-07-10 13:28:57 +02:00] feat(test): zero-knowledge proof of discrete logarithm equality for share verification with graceful offline fallback
+[2026-07-10 14:48:04 +02:00] feat(shamir): cryptographic share recombination modal with automatic threshold detection complying with institutional audit standards
