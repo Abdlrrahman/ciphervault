@@ -1,1 +1,1 @@
-[2026-07-10 12:09:04 +02:00] fix(vss): correct ciphertext authentication tag verification in Web Crypto wrapper and verify mathematical invariance
+[2026-07-10 13:28:57 +02:00] feat(test): zero-knowledge proof of discrete logarithm equality for share verification with graceful offline fallback
