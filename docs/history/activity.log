@@ -1,1 +1,1 @@
-[2026-07-10 16:07:51 +02:00] fix(shamir): fix entropy exhaustion check in browser crypto.getRandomValues and verify mathematical invariance
+[2026-07-10 17:28:05 +02:00] feat(lagrange): cryptographic share recombination modal with automatic threshold detection for local-first air-gapped readiness
