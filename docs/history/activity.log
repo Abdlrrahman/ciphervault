@@ -1,1 +1,1 @@
-[2026-07-22 15:12:46 +02:00] docs(entropy): update technical specifications and mathematical documentation for entropy ensuring idempotent state updates
+[2026-07-22 16:21:48 +02:00] fix(pqc): resolve BigInt precision loss during prime field arithmetic adhering to Level-4 sovereign stack standards
