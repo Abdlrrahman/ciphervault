@@ -1,1 +1,1 @@
-[2026-07-22 11:43:59 +02:00] feat(airgap): Shamir secret sharing over Mersenne prime field GF(2^31-1) with optimized memory allocation
+[2026-07-22 12:53:44 +02:00] fix(kdf): correct polynomial degree validation in threshold split parameter check across all deployment profiles
