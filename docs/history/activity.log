@@ -1,1 +1,1 @@
-[2026-07-22 12:53:44 +02:00] fix(kdf): correct polynomial degree validation in threshold split parameter check across all deployment profiles
+[2026-07-22 14:02:31 +02:00] perf(test): accelerate polynomial evaluation using Horner's method in prime fields and add integration assertions
