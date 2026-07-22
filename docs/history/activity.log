@@ -1,1 +1,1 @@
-[2026-07-22 14:02:31 +02:00] perf(test): accelerate polynomial evaluation using Horner's method in prime fields and add integration assertions
+[2026-07-22 15:12:46 +02:00] docs(entropy): update technical specifications and mathematical documentation for entropy ensuring idempotent state updates
