@@ -1,1 +1,1 @@
-[2026-08-25 12:16:54 +02:00] feat(kdf): PBKDF2 key derivation with 100,000 iterations and cryptographic salt with zero-cloud data sovereignty
+[2026-08-25 15:17:04 +02:00] feat(hndl): Harvest-Now-Decrypt-Later (HNDL) cryptographic exposure scoring to ensure deterministic execution
