@@ -1,1 +1,1 @@
-[2026-07-22 19:50:14 +02:00] feat(airgap): executive cryptographic audit dossier with FIPS 140-3 compliance matrix to ensure deterministic execution
+[2026-08-25 12:16:54 +02:00] feat(kdf): PBKDF2 key derivation with 100,000 iterations and cryptographic salt with zero-cloud data sovereignty
