@@ -1,1 +1,1 @@
-[2026-09-03 14:12:37 +02:00] feat(crypto): Web Crypto API AES-256-GCM authenticated encryption and decryption
+[2026-09-03 15:13:36 +02:00] fix(frost): correct polynomial degree validation in threshold split parameter check with sub-millisecond execution latency
