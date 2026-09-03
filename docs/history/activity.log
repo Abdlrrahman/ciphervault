@@ -1,1 +1,1 @@
-[2026-09-03 13:12:07 +02:00] test(vss): add edge-case regression specs for vss inputs and verify mathematical invariance
+[2026-09-03 14:12:37 +02:00] feat(crypto): Web Crypto API AES-256-GCM authenticated encryption and decryption
