@@ -1,1 +1,1 @@
-[2026-09-03 19:14:59 +02:00] test(theme): add property-based invariance tests for theme algorithms across all deployment profiles
+[2026-09-03 20:15:43 +02:00] test(hndl): strengthen assertion thresholds in hndl test suite with graceful offline fallback
