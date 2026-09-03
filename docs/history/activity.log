@@ -1,1 +1,1 @@
-[2026-08-25 18:17:21 +02:00] feat(pqc): executive cryptographic audit dossier with FIPS 140-3 compliance matrix with strict TypeScript type-checking
+[2026-09-03 10:10:28 +02:00] fix(test): patch base64url padding issue on exported cryptographic shares adhering to Level-4 sovereign stack standards
