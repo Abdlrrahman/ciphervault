@@ -1,1 +1,1 @@
-[2026-09-03 10:10:28 +02:00] fix(test): patch base64url padding issue on exported cryptographic shares adhering to Level-4 sovereign stack standards
+[2026-09-03 11:11:23 +02:00] perf(kdf): speed up key derivation round checks with typed WebAssembly buffers adhering to Level-4 sovereign stack standards
