@@ -1,1 +1,1 @@
-[2026-09-03 15:13:36 +02:00] fix(frost): correct polynomial degree validation in threshold split parameter check with sub-millisecond execution latency
+[2026-09-03 16:13:38 +02:00] test(feldman): verify deterministic execution boundary for feldman for local-first air-gapped readiness
